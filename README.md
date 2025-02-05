@@ -15,5 +15,5 @@ Esta es una aplicación web simple donde los usuarios pueden ingresar múltiples
 ![image](https://github.com/user-attachments/assets/7f22c6e0-c76f-428d-84db-e73dce5aaaf9)
 
 
-6. El nombre seleccionado se mostrará en la misma página.
+### El nombre seleccionado se mostrará en la misma página.
 ![image](https://github.com/user-attachments/assets/9b61bbca-8641-428e-9e66-e649fc6477a5)
